@@ -1,7 +1,7 @@
 # HelloWorld
 
 ## link
-[link](yahoo.com)
+[yahoo site](https://yahoo.com)
 
 ## Heading2
 This is *italic*, this is **bold**, this is --strikethrough--
