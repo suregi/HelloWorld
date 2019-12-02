@@ -31,6 +31,7 @@ and
 
 1. Num1
 1. Num2
+1.2 Num 1.2
 2. Num3
 
 ---
