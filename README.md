@@ -1,5 +1,9 @@
 # HelloWorld
 
+## automatic link
+https://www.yahoo.com
+
+
 ## plain old HTML
 <button>Big Fat Button</button>
 
