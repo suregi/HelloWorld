@@ -1,7 +1,7 @@
 # HelloWorld
 
 ## plain old HTML
-<button class="button-save large">Big Fat Button</button>
+<button>Big Fat Button</button>
 
 ## code block
     if (this) {
